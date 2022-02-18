@@ -17,7 +17,7 @@
   kind: mcp
   mcp_id: mcp1
   pin: 0
-  output_type: switch
+  output_type: light
 - id: OUT_05
   kind: mcp
   mcp_id: mcp2
